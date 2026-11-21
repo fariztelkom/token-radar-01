@@ -1,6 +1,10 @@
 # Launch Radar — token-radar-01
 
-A token launch radar built from the sealed DefiLlama snapshot. It ranks protocols that record no
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/fariztelkom/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/fariztelkom/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+A token launch radar built from the sealed DefiLlama snapshot. Entered on [make.fun](https://make.fun/bounty/token-radar-01). It ranks protocols that record no
 token by an implied value fitted from the snapshot's own live-token comparables, and gives every
 ranked protocol a concrete seven-step farm plan.
 
